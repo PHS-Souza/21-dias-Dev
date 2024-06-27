@@ -1,0 +1,1 @@
+console.log ('Agora está direto o arquivo')
